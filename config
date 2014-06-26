@@ -1,0 +1,28 @@
+##############
+## External ##
+##############
+
+browser "/usr/bin/open &"
+
+###############
+## Reloading ##
+###############
+
+auto-reload yes
+reload-time 1
+notify-beep yes
+
+###########
+## Theme ##
+###########
+
+color background white color233
+
+color listnormal white color233
+color listfocus  white color161
+
+color listnormal_unread white color233
+color listfocus_unread white color161
+
+color info white color236
+color article white color233
