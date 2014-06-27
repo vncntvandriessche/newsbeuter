@@ -9,7 +9,7 @@ browser "/usr/bin/open"
 ###############
 
 auto-reload yes
-reload-time 1
+reload-time 15
 notify-beep yes
 
 ###########
